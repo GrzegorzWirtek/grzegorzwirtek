@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🔭 About Me
-I'm a beginner Frontend Developer. I increase skills in web development using React.js, TypeScript, Redux, CSS/Sass. I create projects in MERN stack using REST API.
+I'm a beginner Frontend Developer. I increase skills in web development using Next.js, React.js, TypeScript, Redux, CSS/Sass. I create projects in MERN stack using REST API.
 
 <!--
 **GrzegorzWirtek/grzegorzwirtek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
